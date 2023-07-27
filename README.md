@@ -1,4 +1,4 @@
-# wuye-bk
+# wuye
 
 ## Project setup
 ```
